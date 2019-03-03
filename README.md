@@ -2,4 +2,4 @@
 
 ## Content
 
-* [Homework-1](https://zenghui9977.github.io/swsad-homework.github.io/homework1)
+* [Homework-1](http://zenghui9977.github.io/swsad-homework.github.io/homework1)
