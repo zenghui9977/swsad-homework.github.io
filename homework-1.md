@@ -42,7 +42,7 @@
 * **简单解释 CMMI 的五个级别。例如：Level 1 - Initial：无序，自发生产模式。**
 
     1. **Level 1 - Initial**：无序，自发生产模式。
-    2. **Level 2 - Managed**
+    2. **Level 2 - Managed**：建立了基本的项目管理过程来跟踪费用、进度和功能特性。制定了必要的过程纪律，能重复早先类似应用项目取得的成功经验。分别包括：
           * **CM** - Configuration Management
           * **MA** - Measurement and Analysis
           * **PPQA** - Process and Quality Assurance
@@ -51,7 +51,7 @@
           * **SD** - Service Delivery
           * **WMC** - Work Monitoring and Control
           * **WP** - Work Planning
-    3. **Level 3 - Defined**
+    3. **Level 3 - Defined**：已将软件管理和工程两方面的过程文档化、标准化，并综合成该组织的标准软件过程。所有项目均使用经批准、剪裁的标准软件过程来开发和维护软件，软件产品的生产在整个软件过程是可见的。包括有：
           * **CAM** - Capacity and Availability Management
           * **DAR** - Decision Analysis and Resolution
           * **IRP** - Incident Resolution and Prevention
@@ -64,10 +64,10 @@
           * **SSD** - Service System Development
           * **SST** - Service System Transition
           * **STSM** - Strategic Service Management
-    4. **Level 4 - Quantitatively Managed**
+    4. **Level 4 - Quantitatively Managed**：分析对软件过程和产品质量的详细度量数据，对软件过程和产品都有定量的理解与控制。管理有一个作出结论的客观依据，管理能够在定量的范围内预测性能。包括：
           * **OPP** - Organizational Process Performance
           * **QWM** - Quantitative Work Management
-    5. **Level 5 - Optimizing**
+    5. **Level 5 - Optimizing**：过程的量化反馈和先进的新思想、新技术促使过程持续不断改进。包括：
           * **CAR** - Causal Analysis and Resolution.
           * **OPM** - Organizational Performance Management.
 * **用自己语言简述 SWEBok 或 CMMI （约200字）**
