@@ -52,5 +52,5 @@
 * 请在 参考书2 或 教材 中选择一个类图（给出参考书页码图号）
     
     在UMLet上练习的类图如下：
-![UMLet练习类图，参考UML和模式应用（原书第三版）第7页第一章图1-5 局部设计类图](image/swsad-homework2-umlet.png)
+    ![UMLet练习类图，参考UML和模式应用（原书第三版）第7页第一章图1-5 局部设计类图](image/swsad-homework2-umlet.png)
 UMLet练习类图，参考UML和模式应用（原书第三版）第7页第一章图1-5 局部设计类图
