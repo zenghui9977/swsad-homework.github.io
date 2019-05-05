@@ -14,7 +14,6 @@
 Make Reservation 用例领域建模
 
 
-
 对于Make Reservation，需要建立的类有：Reservation，Customer，Hotel，Shopping Basket，Room，Room Description，Location
 
 * Hotel (HotelID/Key, LocationID/FKey, HotelName, HotelAddress, briefinformation, RoomID)
